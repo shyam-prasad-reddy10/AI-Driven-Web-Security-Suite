@@ -1,6 +1,8 @@
-package com.securitysuite.ai_security_suite;
+package com.securitysuite.ai_security_suite.service;
 
 import org.springframework.stereotype.Service;
+
+import com.securitysuite.ai_security_suite.model.ThreatResponse;
 
 @Service
 public class ThreatDetectionService {

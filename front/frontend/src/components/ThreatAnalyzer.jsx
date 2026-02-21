@@ -27,7 +27,7 @@ function ThreatAnalyzer() {
 
         <div className="card shadow-lg border-0 rounded-4 p-4">
           <h2 className="mb-4 text-center fw-bold">
-            AI Threat Analyzer
+             Threat Analyzer
           </h2>
 
           <textarea

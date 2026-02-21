@@ -1,4 +1,4 @@
-package com.securitysuite.ai_security_suite;
+package com.securitysuite.ai_security_suite.model;
 
 public class ThreatRequest {
 	private String payload;

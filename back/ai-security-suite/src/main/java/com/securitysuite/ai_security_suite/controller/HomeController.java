@@ -1,4 +1,4 @@
-package com.securitysuite.ai_security_suite;
+package com.securitysuite.ai_security_suite.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

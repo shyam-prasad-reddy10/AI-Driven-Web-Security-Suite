@@ -1,4 +1,4 @@
-package com.securitysuite.ai_security_suite;
+package com.securitysuite.ai_security_suite.model;
 
 public class ThreatResponse {
 	  private String attackType;
